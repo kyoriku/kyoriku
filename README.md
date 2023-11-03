@@ -1,6 +1,6 @@
 <h3> 👋 Hello World! </h3>
 
-Welcome to my GitHub! I'm passionate about all things technology. Committed to learning and open-source collaboration, I'm eager to connect with like-minded individuals and contribute to innovative projects.
+Welcome to my GitHub! I'm passionate about all things technology. Committed to learning and collaboration, I'm eager to connect with like-minded individuals and contribute to innovative projects.
 
 👀 I’m interested in Full Stack Web Development, Cybersecurity, Game Development, Machine Learning/AI, and UI/UX Design.
   
