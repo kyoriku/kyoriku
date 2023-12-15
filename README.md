@@ -4,7 +4,7 @@
 
 👀 I’m interested in Full Stack Web Development, Cybersecurity, Game Development, Machine Learning/AI, and UI/UX Design.
   
-🌱 I’m currently learning HTML5, CSS3, JavaScript, jQuery, APIs, Node.js, Jest, and Express.js.
+🌱 I’m currently learning HTML5, CSS3, JavaScript, jQuery, APIs, Node.js, Jest, Express.js, and MySQL.
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
