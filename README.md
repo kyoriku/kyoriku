@@ -4,7 +4,7 @@
 
 👀 I’m interested in Full Stack Web Development, Cybersecurity, Game Development, Machine Learning/AI, and UI/UX Design.
   
-🌱 I’m currently learning HTML5, CSS3, JavaScript, jQuery, APIs, Node.js, Jest, Express.js, and MySQL.
+🌱 I’m currently learning React and GraphQL.
 
 ### Languages and Tools:
   <p align="left"> 
@@ -22,6 +22,5 @@
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="icons/webpack.jpg" alt="webpack" width="40" height="40"/></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="icons/reactjs.jpg" alt="react" width="40" height="40"/></a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="icons/graphql.jpg" alt="graphql" width="40" height="40"/></a>
-
   </p>
   
