@@ -22,5 +22,8 @@
     <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> <img src="icons/webpack.jpg" alt="webpack" width="40" height="40"/></a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="icons/reactjs.jpg" alt="react" width="40" height="40"/></a>
     <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="icons/graphql.jpg" alt="graphql" width="40" height="40"/></a>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/></a>
+    <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Nginx_logo.svg" alt="nginx" width="40" height="40"/></a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/></a>
   </p>
   
