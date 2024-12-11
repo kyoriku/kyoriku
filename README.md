@@ -4,7 +4,7 @@
 
 👀 My interests include Full Stack Web Development, Cybersecurity, Game Development, Machine Learning/AI, and UI/UX Design.
 
-🌱 I’m currently diving deeper into React and Python, expanding my toolkit for building dynamic, data-driven applications.
+🌱 I’m currently diving deeper into React, Python, and SQL, expanding my toolkit for building dynamic, data-driven applications.
 
 ### Languages and Tools:
   <p align="left"> 
