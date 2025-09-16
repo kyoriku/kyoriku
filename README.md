@@ -29,8 +29,8 @@ I'm currently expanding my expertise in modern web technologies, automation scri
   </p>
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=transparent&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=495)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=transparent&hide_border=true&card_width=495)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=transparent&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=420)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=transparent&hide_border=true&card_width=420)
 
 ### Let's Connect!
 - LinkedIn: [Austin Graham](https://www.linkedin.com/in/austingraham1/)
