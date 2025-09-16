@@ -33,6 +33,6 @@ I'm currently expanding my expertise in modern web technologies, automation scri
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=transparent&hide_border=true&card_width=400)
 
 ### Let's Connect!
-- LinkedIn: [Austin Graham](https://www.linkedin.com/in/austingraham1/)
-- Email: hello@austingraham.ca
-- Portfolio: [austingraham.ca](https://www.austingraham.ca)
+- LinkedIn: <a href="https://www.linkedin.com/in/austingraham1/" target="_blank">Austin Graham</a>
+- Email: <a href="mailto:hello@austingraham.ca">hello@austingraham.ca</a>
+- Portfolio: <a href="https://www.austingraham.ca" target="_blank">austingraham.ca</a>
