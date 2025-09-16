@@ -27,3 +27,12 @@ I'm currently expanding my expertise in modern web technologies, automation scri
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/></a>
   </p>
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=transparent&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=495)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=transparent&hide_border=true&card_width=495)
+
+### Let's Connect!
+- LinkedIn: [Austin Graham](https://www.linkedin.com/in/austingraham1/)
+- Email: hello@austingraham.ca
+- Portfolio: [austingraham.ca](https://www.austingraham.ca)
