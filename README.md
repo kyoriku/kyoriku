@@ -29,8 +29,11 @@ I'm currently expanding my expertise in modern web technologies, automation scri
   </p>
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=transparent&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=transparent&hide_border=true&card_width=400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=default&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=400#gh-light-mode-only)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=dark&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=400#gh-dark-mode-only)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=default&hide_border=true&card_width=400#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=dark&hide_border=true&card_width=400#gh-dark-mode-only)
 
 ### Let's Connect!
 - LinkedIn: <a href="https://www.linkedin.com/in/austingraham1/" target="_blank">Austin Graham</a>
