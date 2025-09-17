@@ -29,15 +29,8 @@ I'm currently expanding my expertise in modern web technologies, automation scri
   </p>
 
 ### GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=dark&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=400">
-  <img src="https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=default&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=400" alt="GitHub Stats">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=dark&hide_border=true&card_width=400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=default&hide_border=true&card_width=400" alt="Top Languages">
-</picture>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyoriku&show_icons=true&theme=transparent&show=prs_merged&hide=issues,contribs&hide_border=true&card_width=400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyoriku&layout=compact&theme=transparent&hide_border=true&card_width=400)
 
 ### Let's Connect!
 - LinkedIn: <a href="https://www.linkedin.com/in/austingraham1/" target="_blank">Austin Graham</a>
